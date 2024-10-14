@@ -40,7 +40,6 @@ function App() {
 
   return (
     <div className="App">
-      <Header />
       <h1>Todo List</h1>
       <form
         onSubmit={(e) => {
